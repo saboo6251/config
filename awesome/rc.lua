@@ -48,7 +48,7 @@ end
 local themes = { 
  	         "ghost-black" --1
 	       }
-local chosen_theme = themes [2]
+local chosen_theme = themes [1]
 --beautiful.init(gears.filesystem.get_themes_dir() .. "zenburn/theme.lua") -- default directory
 beautiful.init(string.format("%s/.config/awesome/themes/%s/theme.lua", os.getenv("HOME"), chosen_theme))
 -- This is used later as the default terminal and editor to run.
