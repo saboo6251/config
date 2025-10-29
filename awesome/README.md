@@ -1,4 +1,4 @@
-#Hello everyone !!
+Hello everyone !!
 ------------------
 I hv tried to make decent mono chromatic theme  in awesomewm  named ghost black.
 Now it is quite a stock config ,but contain some leftover of the default zenburn theme file.
